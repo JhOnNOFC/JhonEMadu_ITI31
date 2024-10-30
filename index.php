@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Jonathan Neri Rodrigues e Maria Eduarda de Matos</h1>
-    <img src="imagens/pizza.jpg" alt="Imagem da Pizza">
+    <img src="imagens/pizza.jpg" alt="Imagem da Pizza"/>
 </body>
 </html>
